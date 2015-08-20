@@ -1,4 +1,4 @@
-# UCES
+# UCES（原名PicRoll）
 辅导员考核系统 University Counsellor Examination System
 
 ## 项目介绍
