@@ -1,0 +1,16 @@
+/* #infoTable thead tr { 
+display:block;
+width:100%; 
+} 
+
+#infoTable tbody { 
+display: block; 
+height: 160px; 
+overflow: auto; 
+} 
+#infoTable th { 
+width:12.5%; 
+} 
+#infoTable td { 
+width:12.5%; 
+}  */
