@@ -1,5 +1,5 @@
 # UCES
-辅导员考核网站 University Counsellor Examination System
+辅导员考核系统 University Counsellor Examination System
 
 ## 项目介绍
 

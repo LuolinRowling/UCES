@@ -63,7 +63,7 @@
     	<div class="row">
         	<h1><a href="#">辅导员考核系统</a></h1>
             <div class="clear"></div>
-            <div class="templatemo_smalltitle">北京交通大学·学生工作处</div>
+            <div class="templatemo_smalltitle">****大学·*****</div>
        </div>
     </div>
     <!-- logo end -->    
@@ -125,7 +125,7 @@
     	<!-- logo start -->
     <div class="logocontainer">
     	<div class="row">
-            <div class="templatemo_footer">Copyright © 2084 BJTU·CNVS - <a href="http://www.bjtu.edu.cn">北京交通大学·学生工作处</a> </div>
+            <div class="templatemo_footer">Copyright © 2084 ****·**** - <a href="http://www.bjtu.edu.cn">****大学·*****</a> </div>
                    </div>
     </div>
     <!-- logo end -->  

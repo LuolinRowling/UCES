@@ -469,7 +469,7 @@
     	<div class="row">
         	<h1>辅导员考核系统</h1>
             <div class="clear"></div>
-            <div class="templatemo_smalltitle">北京交通大学·学生工作处</div>
+            <div class="templatemo_smalltitle">****大学·*****</div>
        </div>
     </div>
     
@@ -621,30 +621,7 @@
                     </div>
                 </div>
                         </div>
-<!--                         <div class="tab-pane fade" id="qs2">
-                            <div class="templatemo_col50 templatemo_rightgap_about" style="width:33.3%;">
-                      <div class="templatemo_graybg templatemo_botgap">
-                        <div class="templatemo_frame">
-                      <div class="row">
-                            <div class="col-sm-6 col-md-4" style="width:100%">
-                                <div class="thumbnail">
-                                     <img data-src="holder.js/300x300" alt="..." src="images/BJTU.png">
-                                         <div class="caption">
-                                             <h3>交大22</h3>
-                                                <center>
-                                                    <p><a href="#" class="btn btn-primary" role="button">开始</a> <a href="#" class="btn btn-default" role="button">暂停</a></p>
-                                                </center>
-                                        </div>
-                                </div>
-                            </div>
-                        </div>
-                        </div>
-                        </div>
-                    </div>
-                <div class="templatemo_col50 templatemo_leftgap templatemo_botgap" style="width:66.7%">
-                    <p style="color:red">22222222222222222</p>
-                </div>
-                        </div> -->
+
                         <div class="tab-pane fade " id="qs3">
 <div class="templatemo_col50 templatemo_rightgap_about" style="width:100%;">
                               <div class="templatemo_graybg templatemo_botgap">
@@ -712,7 +689,7 @@
     </div>
     <div class="logocontainer">
     	<div class="row">
-            <div class="templatemo_footer">Copyright © 2084 BJTU·CNVS - <a href="http://www.bjtu.edu.cn">北京交通大学·学生工作处</a> </div>
+            <div class="templatemo_footer">Copyright © 2084 ****·**** - <a href="http://www.bjtu.edu.cn">****大学·*****</a> </div>
        </div>
     </div>
 
