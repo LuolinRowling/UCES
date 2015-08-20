@@ -11,7 +11,7 @@
 <p align="center">
 <img src="http://i.imgur.com/TZgqSi0.png"/>
 <div align="center">
-Fig. 进入页（首页）
+Fig. 首页
 </div>
 </p>
 
